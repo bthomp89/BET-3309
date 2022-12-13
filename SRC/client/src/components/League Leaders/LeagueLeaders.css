@@ -1,0 +1,33 @@
+#main {
+  display: flex;
+  justify-content: center;
+}
+#pass {
+  padding-right: 300px;
+  border-right:20px;
+}
+#rush {
+  padding-left: 300px;
+}
+#label {
+  font-family: Impact;
+  font-size: 50px;
+}
+#lab {
+  text-align: center;
+}
+#rush_ydsList {
+  
+  display:block;
+}
+#pass_ydsList {
+  margin:10px;
+  display:block;
+}
+#rec_ydsList {
+  
+  display:block;
+}  
+ol.list li:nth-child(odd){
+    background-color: #f2f2f2;
+}

@@ -1,0 +1,36 @@
+#label{
+    font-size:50px;
+    text-align: center;
+}
+#App{
+    text-align:center;
+    display: block;
+}
+#one{
+    display:block;
+    text-align:center;
+}
+#two{
+    display:block;
+    text-align:center;
+}
+#names{
+    list-style:none;
+    display:block;
+    
+    
+}
+
+#label{
+    font-family: Impact;
+    font-size: 50px;
+}
+#divisions{
+    margin-bottom: 20px;
+}
+#teams{
+    margin-bottom:20px;
+}
+ul.names li:nth-child(odd){
+    background-color: #f2f2f2;
+}

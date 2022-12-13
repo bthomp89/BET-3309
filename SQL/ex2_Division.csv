@@ -1,0 +1,3 @@
+Field,Type,Null,Key,Default,Extra
+div_name,varchar(35),NO,PRI,NULL,
+conf_name,varchar(3),NO,,NULL,

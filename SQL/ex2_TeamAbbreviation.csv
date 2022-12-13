@@ -1,0 +1,3 @@
+Field,Type,Null,Key,Default,Extra
+team_abbrev,varchar(3),NO,PRI,NULL,
+team_name,varchar(25),YES,,NULL,

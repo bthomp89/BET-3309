@@ -1,0 +1,7 @@
+Field,Type,Null,Key,Default,Extra
+username,varchar(100),NO,PRI,NULL,
+uf_Name,varchar(50),NO,,NULL,
+ul_Name,varchar(50),NO,,NULL,
+email,varchar(100),NO,,NULL,
+password,varchar(50),NO,,NULL,
+

@@ -1,0 +1,67 @@
+#leftSearchBar{
+    width: 500px;
+}
+#rightSearchBar{
+    width: 500px;
+}
+::-webkit-input-placeholder{
+    text-align: center;
+}
+#playerSearchTitle{
+    font-family: Impact;
+    font-size: 50px;
+}
+#leftDiv{
+    float: left;
+    margin-left: 80px;
+}
+
+#rightDiv{
+    float: right;
+    margin-right: 80px;
+}
+#leftSearchList{
+    padding-left: 0;
+    text-align: left;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+#leftStatsList{
+    padding-left: 0;
+    text-align: left;
+    display: inline-block;
+    margin-top: 30px;
+    font-family: Copperplate;
+    font-size: 25px;
+}
+
+#leftSearchList{
+    
+        padding-left: 0;
+        text-align: left;
+        display: inline-block;
+        margin-top: 30px;
+        font-family: Copperplate;
+        font-size: 25px;
+    
+
+}
+
+#rightSearchList{
+    padding-left: 0;
+    text-align: left;
+    display: inline-block;
+    margin-top: 30px;
+    font-family: Copperplate;
+    font-size: 25px;
+}
+
+#rightStatsList{
+    padding-left: 0;
+    text-align: left;
+    display: inline-block;
+    margin-top: 30px;
+    font-family: Copperplate;
+    font-size: 25px;
+}

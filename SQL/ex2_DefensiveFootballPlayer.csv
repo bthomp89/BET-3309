@@ -1,0 +1,8 @@
+Field,Type,Null,Key,Default,Extra
+pf_name,varchar(35),NO,PRI,NULL,
+pl_name,varchar(35),NO,PRI,NULL,
+team_name,varchar(3),NO,PRI,NULL,
+def_int,int,YES,,NULL,
+def_td,int,YES,,NULL,
+def_tackles,"decimal(10,0)",YES,,NULL,
+def_sacks,"decimal(10,0)",YES,,NULL,

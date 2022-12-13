@@ -1,0 +1,3 @@
+Field,Type,Null,Key,Default,Extra
+username,varchar(100),NO,PRI,NULL,
+fav_team_name,varchar(3),NO,PRI,NULL,

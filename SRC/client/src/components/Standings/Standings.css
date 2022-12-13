@@ -1,0 +1,38 @@
+/* Games table css */
+#t2 {
+    font-weight: bold;
+  }
+  #t2 {
+    border-collapse: collapse;
+    width: 50%;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #t2 td,
+  #t2 th {
+    padding: 8px;
+  }
+  #t2 tr:nth-child(odd) {
+    background-color: #f2f2f2;
+  }
+  #t2 tr:hover {
+    background-color: #ddd;
+  }
+  #t2 th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgb(164, 164, 164);
+    color: white;
+  }
+  td:first-child,
+  th:first-child {
+    border-radius: 10px 0 0 10px;
+  }
+  td:last-child,
+  th:last-child {
+    border-radius: 0 10px 10px 0;
+  }
+  /* Predict button css */
+

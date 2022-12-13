@@ -1,0 +1,8 @@
+Field,Type,Null,Key,Default,Extra
+game_id,varchar(50),NO,PRI,NULL,
+game_day,date,NO,,NULL,
+game_time,time,NO,,NULL,
+away_team,varchar(3),NO,MUL,NULL,
+away_score,int,YES,,NULL,
+home_team,varchar(3),NO,MUL,NULL,
+home_score,int,YES,,NULL,
